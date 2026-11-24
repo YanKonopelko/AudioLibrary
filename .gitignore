@@ -1,0 +1,7 @@
+audio/
+.local/
+dist/
+__pycache__/
+node_modules/
+*.log
+
